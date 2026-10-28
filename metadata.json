@@ -1,0 +1,6 @@
+{
+  "name": "Tamil Nadu 2026 Assembly Constituency & Local Government Information Portal",
+  "description": "Source-verified official information portal for all 38 districts, 234 Assembly Constituencies, MLAs, Village Panchayats, Blocks, and Local Self-Government bodies of Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
